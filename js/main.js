@@ -190,7 +190,7 @@ mit.main = function() {
   mit.config.canvas_height = mit.H = H;
 
   // Gravity
-  mit.gravity = 0.7;
+  mit.gravity = 0.9;
 
   // Velocity x,y
   mit.vx = 0;
